@@ -1,0 +1,39 @@
+query,doc_id,relevance
+machine learning applications,S001,2
+machine learning applications,S002,2
+machine learning applications,S020,2
+machine learning applications,S038,2
+machine learning applications,S027,1
+machine learning applications,S006,1
+machine learning applications,S009,1
+heart disease prevention,S015,2
+heart disease prevention,S018,2
+heart disease prevention,S012,1
+heart disease prevention,S014,1
+cricket tournament,S022,2
+cricket tournament,S030,2
+cricket tournament,S027,1
+interest rates and loans,S036,2
+interest rates and loans,S033,1
+interest rates and loans,S040,1
+trekking in the mountains,S043,2
+trekking in the mountains,S042,1
+search engine ranking,S003,2
+search engine ranking,S008,1
+search engine ranking,S006,1
+investing in funds,S037,2
+investing in funds,S032,2
+investing in funds,S039,1
+sleep and stress,S014,2
+sleep and stress,S016,2
+sleep and stress,S021,1
+train travel,S044,2
+train travel,S047,1
+recommendation systems,S009,2
+recommendation systems,S050,1
+recommendation systems,S008,1
+athlete injury,S029,2
+athlete injury,S027,1
+athlete injury,S024,1
+cheap travel,S045,2
+cheap travel,S042,1
